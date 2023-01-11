@@ -193,3 +193,20 @@ namespace UAS_069
     }
 }
 
+//Algoritma:
+//Bubble sort karena pengurutannya paling sederhana
+//Linear search karena data karena algoritma ini merupakan data pencarian yang menelusuri semua data satu persatu
+
+//Ditambahkan diakhir disebut rear
+//Dihapus di paling akhir disebut front
+
+//a. ada 9 node
+//b. post order traversal yaitu dengan cara
+//- kiri ujung tersebut
+//jika kiri bukan kosong atau bernilai tidak null maka mulai dari langkah pertama
+//Jika kiri bernilai kosongn maka lanjut ke langkah ke 2
+//-kanan node tsb
+//Jika kanan tidak kosong mulailah dari langkah pertama
+//Jika kanan bernilai kosong maka lanjut langkah ke 2
+//-cetak isi data yang sedang dikunjungi, agar bisa selesai, tuntaskan node yang sebelumnya
+
